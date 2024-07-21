@@ -54,3 +54,7 @@ Funcionalidades
 ### Version
 
 480 CHK 1.10
+
+
+https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
+
