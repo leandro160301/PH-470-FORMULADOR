@@ -26,10 +26,9 @@ El controlador PH-470 está diseñado para la preparación de recetas sin límit
 El PH-470 cuenta con dos opciones para la carga y modificación de datos, tanto de ingredientes como de recetas:
 
 Opción 1: Manual
-
 En esta opción, puede agregar, eliminar y modificar ingredientes y recetas directamente desde la pantalla del dispositivo. Esta opción es ideal para realizar ajustes rápidos y directos en el lugar de trabajo.
-Opción 2: Remota
 
+Opción 2: Remota
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
 
 
