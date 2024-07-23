@@ -6,9 +6,9 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
 
 ### Conectividad
 
-Una de las grandes ventajas del PH-470 es su facil acceso remoto al mismo para modificar informacion como carga de recetas, productos, etiquetas, entre otras cosas.
-La misma se realiza desde una pagina web embebida de facil acceso con direccion ip, desde alli tambien podremos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de produccion realizado hasta el momento y descargar informes del mismo. Tambien esta pagina web tiene la posibilidad de bajar una actualizacion al indicador con un archivo APK.
-El indicador de peso tiene la posibilidad de controlar distintos modelos de balanzas, impresoras y escaneres. Para ello posee puertos RS-232, RS-485 y USB. Tambien posee bluetooth clasico/LE, WIFI y conexion a red mediante RJ-45.
+Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar información como la carga de recetas, productos, etiquetas, entre otras cosas. Este acceso se realiza a través de una página web embebida de fácil acceso mediante una dirección IP. Desde allí, también podemos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de producción realizado hasta el momento y descargar informes del mismo. Además, esta página web permite descargar una actualización al indicador mediante un archivo APK.
+
+El indicador de peso puede controlar distintos modelos de balanzas, impresoras y escáneres. Para ello, cuenta con puertos RS-232, RS-485 y USB. También posee Bluetooth clásico/LE, WiFi y conexión a red mediante RJ-45.
  
 
 ### Seguridad y control
