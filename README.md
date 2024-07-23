@@ -165,3 +165,13 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 ### Desarrollado en Android Studio JAVA
+[![Android Studio][android-studio-badge]][android-studio-url]
+[![Java][java-badge]][java-url]
+
+<!-- Iconos -->
+[android-studio-badge]: https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg
+[java-badge]: https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg
+
+<!-- Enlaces -->
+[android-studio-url]: https://developer.android.com/studio
+[java-url]: https://www.java.com/
