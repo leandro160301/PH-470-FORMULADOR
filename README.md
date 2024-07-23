@@ -169,8 +169,8 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 [![Java][java-badge]][java-url]
 
 <!-- Iconos -->
-[android-studio-badge]: https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg
-[java-badge]: https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg
+[android-studio-badge]: https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white
+[java-badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
 <!-- Enlaces -->
 [android-studio-url]: https://developer.android.com/studio
