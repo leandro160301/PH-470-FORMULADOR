@@ -13,7 +13,7 @@ El indicador de peso puede controlar distintos modelos de balanzas, impresoras y
 
 ### Seguridad y control
 
-Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificacion, nivel 4 para programadores (personalizacion de fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo personal autorizado pueda realizar cambios criticos. Ademas accediendo al equipo como personal de operador podremos realizar la produccion sin comprometer los datos guardados en el sistema y quedando registrado lo hecho para cada operador correspondiente
+Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificación: nivel 4 para programadores (personalización del fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo el personal autorizado pueda realizar cambios críticos. Además, al acceder al equipo como operador, podemos realizar la producción sin comprometer los datos guardados en el sistema, quedando registrado todo lo hecho por cada operador correspondiente.
 
 <img src="media/15.png"
      >
