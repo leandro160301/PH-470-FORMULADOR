@@ -32,6 +32,14 @@ Opción 1: Manual
 
 En esta opción, puede agregar, eliminar y modificar ingredientes y recetas directamente desde la pantalla del dispositivo. Esta opción es ideal para realizar ajustes rápidos y directos en el lugar de trabajo.
 
+En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior.
+En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/3.png" width="400">
+ <img src="media/4.png" width="300">
+</div>
+
 Opción 2: Remota
 
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
@@ -43,17 +51,6 @@ En la pantalla principal seleccionamos recetas
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/1.png" width="600">
-</div>
-En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/3.png" width="600">
-</div>
-
-En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/4.png" width="600">
 </div>
 
 Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
