@@ -4,7 +4,7 @@
 
 El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
 
-### Conectividad
+### Conectividad 🔗
 
 Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar información como la carga de recetas, productos, etiquetas, entre otras cosas. Este acceso se realiza a través de una página web embebida de fácil acceso mediante una dirección IP. Desde allí, también podemos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de producción realizado hasta el momento y descargar informes del mismo. Además, esta página web permite descargar una actualización al indicador mediante un archivo APK.
 
