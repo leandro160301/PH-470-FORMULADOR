@@ -27,7 +27,7 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
     <li><a href="#license">Otras pantallas de seteos y configuracion del equipo </a></li>
     <li><a href="#contact">Pagina WEB</a></li>
    <li><a href="#contact">Videos de operacion general</a></li>
-    <li><a href="#pagina-wEB">Desarrollo</a></li>
+    <li><a href="#desarrollo">Desarrollo</a></li>
    <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
@@ -166,14 +166,14 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 
-### Desarrollado en Android Studio JAVA </>
+### Desarrollado en Android Studio JAVA </> {#desarrollo}
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 
 
 
 
-## Contacto
+## Contacto 📧 {#contacto}
 Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome).
 
 <!-- Iconos -->
