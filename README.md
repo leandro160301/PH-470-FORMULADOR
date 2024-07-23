@@ -104,30 +104,16 @@ Configuracion de etiquetas
 
 
 ### Pagina WEB 🌐
-Control del indicador remoto
+Capturas de la pagina web
 
-<img src="media/19.png"
-     >  
-Menu     
-
-<img src="media/20.png"
-     > 
-Datos de proceso        
-
-<img src="media/21.png"
-    >  
-Descarga de archivos, recetas, ingredientes, manuales y mas     
-
-<img src="media/22.png"
-     >  
-Carga de archivos 
-
-<img src="media/23.png"
-    >  
-Actualizaciones de software con archivo .APK  
-
-<img src="media/24.png"
-     >      
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/19.png" width="300">
+    <img src="media/20.png" width="300">
+    <img src="media/21.png" width="300">
+    <img src="media/22.png" width="300">
+    <img src="media/23.png" width="300">
+    <img src="media/24.png" width="300">
+</div>
 
 Video de la pagina web
 
