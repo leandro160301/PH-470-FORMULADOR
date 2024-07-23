@@ -45,7 +45,7 @@ Opción 2: Remota
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
 
 
-### Operacion programa formulador 
+### Operacion programa formulador 👷🏽
 
 En la pantalla principal seleccionamos una receta
 
@@ -77,7 +77,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
     <img src="media/13.png" width="600">
 </div>
 
-### Otras pantallas de seteos y configuracion del equipo 
+### Otras pantallas de seteos y configuracion del equipo 🔧📊🖥️
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/14.png" width="300">
