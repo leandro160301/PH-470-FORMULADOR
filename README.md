@@ -4,6 +4,33 @@
 
 El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
 
+<details>
+  <summary>Contenidos</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Gestion de ingredientes y recetas</a>
+      <ul>
+        <li><a href="#built-with">Opcion Manual</a></li>
+        <li><a href="#installation">Opcion Automatica</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Conectividad</a></li>
+    <li><a href="#roadmap">Seguridad y control</a></li>
+    <li><a href="#contributing">Operacion programa formulador</a></li>
+    <li><a href="#license">Otras pantallas de seteos y configuracion del equipo </a></li>
+    <li><a href="#contact">Pagina WEB</a></li>
+   <li><a href="#contact">Videos de operacion general</a></li>
+    <li><a href="#Pagina WEB">Desarrollo</a></li>
+   <li><a href="#Contacto">Contacto</a></li>
+  </ol>
+</details>
 
 
 ### Conectividad 🔗
