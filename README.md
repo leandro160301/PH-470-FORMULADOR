@@ -37,10 +37,12 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 ### Operacion programa formulador
 
 En la pantalla principal seleccionamos recetas
+
 <img src="media/1.png"
      >
 
 En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior
+
 <img src="media/3.png"
     >
 
@@ -79,22 +81,27 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 ### Otras pantallas de seteos y configuracion del equipo
 
 Ingreso de datos como lote, vencimiento y datos de pesada configurables
+
 <img src="media/14.png"
     >
 
 Acceso a menu de configuraciones
+
 <img src="media/17.png"
      >     
 
 Configuracion Ethernet
+
 <img src="media/16.png"
     >
 
 Configuracion Wifi
+
 <img src="media/16.png"
     >
 
 Configuracion de etiquetas
+
 <img src="media/18.png"
      >     
 
