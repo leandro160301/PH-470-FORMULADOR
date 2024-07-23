@@ -27,8 +27,8 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
     <li><a href="#license">Otras pantallas de seteos y configuracion del equipo </a></li>
     <li><a href="#contact">Pagina WEB</a></li>
    <li><a href="#contact">Videos de operacion general</a></li>
-    <li><a href="#Pagina WEB">Desarrollo</a></li>
-   <li><a href="#Contacto">Contacto</a></li>
+    <li><a href="#pagina-wEB">Desarrollo</a></li>
+   <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
 
