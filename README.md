@@ -85,7 +85,7 @@ Acceso a menu de configuraciones
 
 Configuracion Ethernet
 <img src="media/16.png"
-  >
+    >
 
 Configuracion Wifi
 <img src="media/16.png"
