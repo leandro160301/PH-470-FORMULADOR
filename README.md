@@ -16,8 +16,7 @@ El indicador de peso tiene la posibilidad de controlar distintos modelos de bala
 Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificacion, nivel 4 para programadores (personalizacion de fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo personal autorizado pueda realizar cambios criticos. Ademas accediendo al equipo como personal de operador podremos realizar la produccion sin comprometer los datos guardados en el sistema y quedando registrado lo hecho para cada operador correspondiente
 
 <img src="media/15.png"
-     alt=""
-     height="450">
+     >
 
 
 ### Gestion de ingredientes y recetas
@@ -36,80 +35,65 @@ Para esta opcion debe conectar mediante ethernet o wifi el indicador a su red, a
 
 En la pantalla principal seleccionamos recetas
 <img src="media/1.png"
-     alt=""
-     height="450">
+     >
 
 En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior
 <img src="media/3.png"
-     alt=""
-     height="450">
+    >
 
 En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
 
 <img src="media/4.png"
-     alt=""
-     height="450">
+    >
 
 Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
 
 <img src="media/7.png"
-     alt=""
-     height="450">
+    >
 
 <img src="media/8.png"
-     alt=""
-     height="450">
+    >
 
 <img src="media/9.png"
-     alt=""
-     height="450">        
+     >        
 
 <img src="media/11.png"
-     alt=""
-     height="450">           
+     >           
 
 En todo momento el operador puede visualizar el estado actual de la receta     
 
 <img src="media/10.png"
-     alt=""
-     height="450">
+   >
 
 Para controlar los procesos y pasos realizados debemos entrar a la seccion guardados, alli podremos ver distintos datos de cada pesada, receta o pedido realizado
 
 <img src="media/12.png"
-     alt=""
-     height="450">
+     >
 
 <img src="media/13.png"
-     alt=""
-     height="450">
+    >
 
 ### Otras pantallas de seteos y configuracion del equipo
 
 Ingreso de datos como lote, vencimiento y datos de pesada configurables
 <img src="media/14.png"
-     alt=""
-     height="450">
+    >
 
 Acceso a menu de configuraciones
 <img src="media/17.png"
-     alt=""
-     height="450">     
+     >     
 
 Configuracion Ethernet
 <img src="media/16.png"
-     alt=""
-     height="450">
+  >
 
 Configuracion Wifi
 <img src="media/16.png"
-     alt=""
-     height="450">
+    >
 
 Configuracion de etiquetas
 <img src="media/18.png"
-     alt=""
-     height="450">     
+     >     
 
 
 
@@ -117,31 +101,24 @@ Configuracion de etiquetas
 ### Pagina WEB
 Control del indicador remoto
 <img src="media/19.png"
-     alt=""
-     height="450">  
+     >  
 Menu     
 <img src="media/20.png"
-     alt=""
-     height="450"> 
+     > 
 Datos de proceso           
 <img src="media/21.png"
-     alt=""
-     height="450">  
+    >  
 Descarga de archivos, recetas, ingredientes, manuales y mas     
 <img src="media/22.png"
-     alt=""
-     height="450">  
+     >  
 Carga de archivos 
 <img src="media/23.png"
-     alt=""
-     height="450">  
+    >  
 Actualizaciones de software con archivo .APK     
 <img src="media/24.png"
-     alt=""
-     height="450">    
+     >    
 <img src="media/25.png"
-     alt=""
-     height="450">       
+     >       
 
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
