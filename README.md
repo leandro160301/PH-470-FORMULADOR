@@ -148,15 +148,20 @@ Actualizaciones de software con archivo .APK
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
-### Video de operacion general
+### Videos de operacion general
+
 parte 1
 https://github.com/user-attachments/assets/92eab432-b096-4b8a-b118-6c2d964c3837
+
 parte 2
 https://github.com/user-attachments/assets/657cd081-c3c0-4328-bc42-6f8f65395614
+
 parte 3
 https://github.com/user-attachments/assets/88181782-b1d9-4472-abfa-b277756022e3
+
 parte 4
 https://github.com/user-attachments/assets/e9f40795-5d0e-4b38-9640-e84286caf8f6
+
 parte 5
 https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
