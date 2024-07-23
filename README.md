@@ -11,7 +11,7 @@ Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar
 El indicador de peso puede controlar distintos modelos de balanzas, impresoras y escáneres. Para ello, cuenta con puertos RS-232, RS-485 y USB. También posee Bluetooth clásico/LE, WiFi y conexión a red mediante RJ-45.
  
 
-### Seguridad y control
+### Seguridad y control 🔑
 
 Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificación: nivel 4 para programadores (personalización del fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo el personal autorizado pueda realizar cambios críticos. Además, al acceder al equipo como operador, podemos realizar la producción sin comprometer los datos guardados en el sistema, quedando registrado todo lo hecho por cada operador correspondiente.
 
@@ -19,7 +19,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
      >
 
 
-### Gestion de ingredientes y recetas
+### Gestion de ingredientes y recetas 📖
 
 El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
 
@@ -34,7 +34,7 @@ Opción 2: Remota
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
 
 
-### Operacion programa formulador
+### Operacion programa formulador 
 
 En la pantalla principal seleccionamos recetas
 
@@ -78,7 +78,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 <img src="media/13.png"
     >
 
-### Otras pantallas de seteos y configuracion del equipo
+### Otras pantallas de seteos y configuracion del equipo 
 
 Ingreso de datos como lote, vencimiento y datos de pesada configurables
 
@@ -108,7 +108,7 @@ Configuracion de etiquetas
 
 
 
-### Pagina WEB
+### Pagina WEB 🌐
 Control del indicador remoto
 
 <img src="media/19.png"
@@ -134,10 +134,11 @@ Actualizaciones de software con archivo .APK
 <img src="media/24.png"
      >      
 
+Video de la pagina web
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
-### Videos de operacion general
+### Videos de operacion general 🎥
 
 parte 1
 https://github.com/user-attachments/assets/92eab432-b096-4b8a-b118-6c2d964c3837
@@ -155,7 +156,7 @@ parte 5
 https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
-### Desarrollado en Android Studio JAVA
+### Desarrollado en Android Studio JAVA </>
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 
