@@ -119,9 +119,7 @@ Carga de archivos
     >  
 Actualizaciones de software con archivo .APK     
 <img src="media/24.png"
-     >    
-<img src="media/25.png"
-     >       
+     >      
 
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
