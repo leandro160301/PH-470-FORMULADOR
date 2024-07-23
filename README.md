@@ -183,3 +183,12 @@ Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [
 <!-- Enlaces -->
 [android-studio-url]: https://developer.android.com/studio
 [java-url]: https://www.java.com/
+
+- [Conectividad](#conectividad)
+- [Seguridad y control](#seguridad)
+- [Gestión de ingredientes y recetas](#gestion)
+- [Operación del programa formulador](#operacion)
+- [Página WEB](#pagina-web)
+- [Videos de operación general](#videos-operacion)
+- [Desarrollado en Android Studio JAVA](#desarrollado)
+- [Contacto](#contacto)
