@@ -4,12 +4,15 @@
 
 El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
 
+
+
 ### Conectividad 🔗
 
 Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar información como la carga de recetas, productos, etiquetas, entre otras cosas. Este acceso se realiza a través de una página web embebida de fácil acceso mediante una dirección IP. Desde allí, también podemos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de producción realizado hasta el momento y descargar informes del mismo. Además, esta página web permite descargar una actualización al indicador mediante un archivo APK.
 
 El indicador de peso puede controlar distintos modelos de balanzas, impresoras y escáneres. Para ello, cuenta con puertos RS-232, RS-485 y USB. También posee Bluetooth clásico/LE, WiFi y conexión a red mediante RJ-45.
  
+
 
 ### Seguridad y control 🔑
 
@@ -19,6 +22,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/15.png" width="600">
 </div>
+
 
 
 
@@ -43,6 +47,8 @@ En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla p
 Opción 2: Remota
 
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
+
+
 
 
 ### Operacion programa formulador 👷🏽
@@ -77,6 +83,9 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
     <img src="media/13.png" width="600">
 </div>
 
+
+
+
 ### Otras pantallas de seteos y configuracion del equipo 🔧📊🖥️
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -87,6 +96,8 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
     <img src="media/23.png" width="300">
     <img src="media/24.png" width="300">
 </div>
+
+
 
 
 ### Pagina WEB 🌐
@@ -104,6 +115,9 @@ Capturas de la pagina web
 Video de la pagina web
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
+
+
+
 
 ### Videos de operacion general 🎥
 
@@ -123,9 +137,16 @@ parte 5
 https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
+
+
+
+
 ### Desarrollado en Android Studio JAVA </>
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
+
+
+
 
 ### Contacto 📧
 Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome).
