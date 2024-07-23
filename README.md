@@ -37,7 +37,7 @@ En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla p
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/3.png" width="400">
- <img src="media/4.png" width="300">
+ <img src="media/4.png" width="400">
 </div>
 
 Opción 2: Remota
