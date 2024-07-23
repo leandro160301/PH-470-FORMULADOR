@@ -33,7 +33,7 @@ El indicador de peso puede controlar distintos modelos de balanzas, impresoras y
  
 
 
-### Seguridad y control 🔑
+<h3 id="seguridad-y-control">Seguridad y control 🔑</h3>
 
 Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificación: nivel 4 para programadores (personalización del fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo el personal autorizado pueda realizar cambios críticos. Además, al acceder al equipo como operador, podemos realizar la producción sin comprometer los datos guardados en el sistema, quedando registrado todo lo hecho por cada operador correspondiente.
 
@@ -45,13 +45,13 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 
 
 
-### Gestion de ingredientes y recetas 📖
+<h3 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h3>
 
 El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
 
 El PH-470 cuenta con dos opciones para la carga y modificación de datos, tanto de ingredientes como de recetas:
 
-Opción 1: Manual
+<h4 id="opcion-manual">Opción Manual</h4>
 
 En esta opción, puede agregar, eliminar y modificar ingredientes y recetas directamente desde la pantalla del dispositivo. Esta opción es ideal para realizar ajustes rápidos y directos en el lugar de trabajo.
 
@@ -63,14 +63,14 @@ En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla p
  <img src="media/4.png" width="400">
 </div>
 
-Opción 2: Remota
+<h4 id="opcion-remota">Opción Remota</h4>
 
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
 
 
 
 
-### Operacion programa formulador 👷🏽
+<h3 id="operacion-programa-formulador">Operación del programa formulador 👷🏽</h3>
 
 En la pantalla principal seleccionamos una receta
 
@@ -105,7 +105,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 
 
 
-### Otras pantallas de seteos y configuracion del equipo 🔧📊🖥️
+<h3 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/14.png" width="300">
@@ -117,7 +117,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 
 
 
-### Pagina WEB 🌐
+<h3 id="pagina-web">Página WEB 🌐</h3>
 Capturas de la pagina web
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -136,7 +136,7 @@ https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
 
 
-### Videos de operacion general 🎥
+<h3 id="videos-de-operacion-general">Videos de operación general 🎥</h3>
 
 parte 1
 https://github.com/user-attachments/assets/92eab432-b096-4b8a-b118-6c2d964c3837
@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 
-### Desarrollado en Android Studio JAVA </> {#desarrollo}
+<h3 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h3>
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 
