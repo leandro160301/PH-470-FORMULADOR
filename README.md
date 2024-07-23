@@ -8,30 +8,22 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
   <summary>Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Gestion de ingredientes y recetas</a>
+      <a href="#gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas</a>
       <ul>
-        <li><a href="#built-with">Opcion Manual</a></li>
-        <li><a href="#installation">Opcion Automatica</a></li>
+        <li><a href="#opcion-manual">Opción Manual</a></li>
+        <li><a href="#opcion-remota">Opción Remota</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Conectividad</a></li>
-    <li><a href="#roadmap">Seguridad y control</a></li>
-    <li><a href="#contributing">Operacion programa formulador</a></li>
-    <li><a href="#license">Otras pantallas de seteos y configuracion del equipo </a></li>
-    <li><a href="#contact">Pagina WEB</a></li>
-   <li><a href="#contact">Videos de operacion general</a></li>
-    <li><a href="#desarrollo">Desarrollo</a></li>
-   <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#conectividad">Conectividad</a></li>
+    <li><a href="#seguridad-y-control">Seguridad y control</a></li>
+    <li><a href="#operacion-programa-formulador">Operación del programa formulador</a></li>
+    <li><a href="#otras-pantallas">Otras pantallas de seteos y configuración del equipo</a></li>
+    <li><a href="#pagina-web">Página WEB</a></li>
+    <li><a href="#videos-de-operacion-general">Videos de operación general</a></li>
+    <li><a href="#desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA</a></li>
+    <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
-
 
 ### Conectividad 🔗
 
