@@ -41,18 +41,20 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 En la pantalla principal seleccionamos recetas
 
-<img src="media/1.png"
-     >
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/1.png" width="600">
+</div>
 En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior
 
-<img src="media/3.png"
-    >
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/3.png" width="600">
+</div>
 
 En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
 
-<img src="media/4.png"
-    >
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/4.png" width="600">
+</div>
 
 Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
 
@@ -64,17 +66,19 @@ Una vez seleccionada la receta a realizar volvemos a la pantalla principal de op
 </div> 
 
 En todo momento el operador puede visualizar el estado actual de la receta     
-
-<img src="media/10.png"
-    >
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/10.png" width="600">
+</div>
 
 Para controlar los procesos y pasos realizados debemos entrar a la seccion guardados, alli podremos ver distintos datos de cada pesada, receta o pedido realizado
 
-<img src="media/12.png"
-     >
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/12.png" width="600">
+</div>
 
-<img src="media/13.png"
-    >
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/13.png" width="600">
+</div>
 
 ### Otras pantallas de seteos y configuracion del equipo 
 
