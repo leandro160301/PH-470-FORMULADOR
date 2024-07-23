@@ -1,60 +1,153 @@
 
-![PH-480](capturas/Principal 1.png)
+Controlador de peso PH-470
+<img src="media/8.png"
+     alt=""
+     height="450">
 
-Pantalla Android Formulador con web embebida
+El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
 
+### Conectividad
 
-Funcionalidades
---------
-* Listado de productos con recetas configuradas para cada uno
-* Muestra de estadisticas
-* Grafico de una pesada para facilitar al operador el seteo y configuracion del producto
-* Manuales dentro de la tablet para facilidad de los operadores
-* Servidor FTP para tomar manuales, capturas de graficos y estadisticas, informes,etc
+Una de las grandes ventajas del PH-470 es su facil acceso remoto al mismo para modificar informacion como carga de recetas, productos, etiquetas, entre otras cosas.
+La misma se realiza desde una pagina web embebida de facil acceso con direccion ip, desde alli tambien podremos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de produccion realizado hasta el momento y descargar informes del mismo. Tambien esta pagina web tiene la posibilidad de bajar una actualizacion al indicador con un archivo APK.
+El indicador de peso tiene la posibilidad de controlar distintos modelos de balanzas, impresoras y escaneres. Para ello posee puertos RS-232, RS-485 y USB. Tambien posee bluetooth clasico/LE, WIFI y conexion a red mediante RJ-45.
+ 
 
+### Seguridad y control
 
-<img src="capturas/GRAFICO (1).png"
-     alt="Grafico de pesada"
+Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificacion, nivel 4 para programadores (personalizacion de fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo personal autorizado pueda realizar cambios criticos. Ademas accediendo al equipo como personal de operador podremos realizar la produccion sin comprometer los datos guardados en el sistema y quedando registrado lo hecho para cada operador correspondiente
+
+<img src="media/15.png"
+     alt=""
      height="450">
 
 
-<img src="capturas/PDF (1).png"
-     alt="Screenshot Manuales y Videos para cliente"
+### Gestion de ingredientes y recetas
+
+Este controlador esta diseñado para la preparacion de recetas sin limites de ingredientes. Permite la alta, baja y modificacion de ingredientes y recetas, brindandole flexibilidad y control total sobre su proceso de produccion.
+
+El PH-470 cuanta con dos opciones para la carga y modificacion de datos, tanto de ingredientes como recetas:
+
+Opcion 1° Manual:
+
+Opcion 2° Remota:
+Para esta opcion debe conectar mediante ethernet o wifi el indicador a su red, asi podra acceder al mismo mediante la pagina web. Dentro de ella podra cargar o actualizar las recetas e ingredientes que desee.
+
+
+### Operacion programa formulador
+
+En la pantalla principal seleccionamos recetas
+<img src="media/1.png"
+     alt=""
      height="450">
 
-<img src="capturas/Productos, primer vista prod actual.png"
-     alt="Screenshot Recetas de productos"
+En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior
+<img src="media/3.png"
+     alt=""
      height="450">
 
-<img src="capturas/Lista de usuarios.png"
-     alt="Screenshot Lista de usuarios"
+En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
+
+<img src="media/4.png"
+     alt=""
      height="450">
 
-<img src="capturas/configuracion.png"
-     alt="Screenshot Menu de configuracion del equipo"
+Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
+
+<img src="media/7.png"
+     alt=""
      height="450">
 
-<img src="capturas/Permisos de usuarios.png"
-     alt="Screenshot Permisos de cada usuario"
+<img src="media/8.png"
+     alt=""
      height="450">
 
-<img src="capturas/GRAFICO CURSORES (1).png"
-     alt="Screenshot Cursores de grafico para tomar tiempos de pesaje exactos"
+<img src="media/9.png"
+     alt=""
+     height="450">        
+
+<img src="media/11.png"
+     alt=""
+     height="450">           
+
+En todo momento el operador puede visualizar el estado actual de la receta     
+
+<img src="media/10.png"
+     alt=""
      height="450">
 
+Para controlar los procesos y pasos realizados debemos entrar a la seccion guardados, alli podremos ver distintos datos de cada pesada, receta o pedido realizado
 
-### Importacion
+<img src="media/12.png"
+     alt=""
+     height="450">
 
- git clone https://github.com/leandro160301/PH-480
+<img src="media/13.png"
+     alt=""
+     height="450">
 
-### Desarrollado en Android Studio
+### Otras pantallas de seteos y configuracion del equipo
 
- Firma de aplicacion: java -jar signapk.jar platform.x509.pem platform.pk8 app-debug.apk jwsapi.apk en la carpeta "security"
+Ingreso de datos como lote, vencimiento y datos de pesada configurables
+<img src="media/14.png"
+     alt=""
+     height="450">
 
-### Version
+Acceso a menu de configuraciones
+<img src="media/17.png"
+     alt=""
+     height="450">     
 
-480 CHK 1.10
+Configuracion Ethernet
+<img src="media/16.png"
+     alt=""
+     height="450">
+
+Configuracion Wifi
+<img src="media/16.png"
+     alt=""
+     height="450">
+
+Configuracion de etiquetas
+<img src="media/18.png"
+     alt=""
+     height="450">     
+
+
+
+
+### Pagina WEB
+Control del indicador remoto
+<img src="media/19.png"
+     alt=""
+     height="450">  
+Menu     
+<img src="media/20.png"
+     alt=""
+     height="450"> 
+Datos de proceso           
+<img src="media/21.png"
+     alt=""
+     height="450">  
+Descarga de archivos, recetas, ingredientes, manuales y mas     
+<img src="media/22.png"
+     alt=""
+     height="450">  
+Carga de archivos 
+<img src="media/23.png"
+     alt=""
+     height="450">  
+Actualizaciones de software con archivo .APK     
+<img src="media/24.png"
+     alt=""
+     height="450">    
+<img src="media/25.png"
+     alt=""
+     height="450">       
 
 
 https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
+### Video de operacion general
+
+### Desarrollado en Android Studio JAVA
