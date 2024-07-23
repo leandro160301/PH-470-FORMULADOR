@@ -53,17 +53,12 @@ En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla p
 
 Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
 
-<img src="media/7.png"
-    >
-
-<img src="media/8.png"
-    >
-
-<img src="media/9.png"
-     >        
-
-<img src="media/11.png"
-     >           
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/7.png" width="300">
+    <img src="media/8.png" width="300">
+    <img src="media/9.png" width="300">
+    <img src="media/11.png" width="300">
+</div> 
 
 En todo momento el operador puede visualizar el estado actual de la receta     
 
@@ -159,6 +154,9 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 ### Desarrollado en Android Studio JAVA </>
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
+
+### Contacto 📧
+Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome).
 
 <!-- Iconos -->
 [android-studio-badge]: https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white
