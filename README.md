@@ -63,7 +63,7 @@ Una vez seleccionada la receta a realizar volvemos a la pantalla principal de op
 En todo momento el operador puede visualizar el estado actual de la receta     
 
 <img src="media/10.png"
-   >
+    >
 
 Para controlar los procesos y pasos realizados debemos entrar a la seccion guardados, alli podremos ver distintos datos de cada pesada, receta o pedido realizado
 
