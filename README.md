@@ -75,32 +75,14 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 
 ### Otras pantallas de seteos y configuracion del equipo 
 
-Ingreso de datos como lote, vencimiento y datos de pesada configurables
-
-<img src="media/14.png"
-    >
-
-Acceso a menu de configuraciones
-
-<img src="media/17.png"
-     >     
-
-Configuracion Ethernet
-
-<img src="media/16.png"
-    >
-
-Configuracion Wifi
-
-<img src="media/16.png"
-    >
-
-Configuracion de etiquetas
-
-<img src="media/18.png"
-     >     
-
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="media/14.png" width="300">
+    <img src="media/17.png" width="300">
+    <img src="media/16.png" width="300">
+    <img src="media/18.png" width="300">
+    <img src="media/23.png" width="300">
+    <img src="media/24.png" width="300">
+</div>
 
 
 ### Pagina WEB 🌐
