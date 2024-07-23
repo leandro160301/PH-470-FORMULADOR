@@ -93,8 +93,6 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
     <img src="media/17.png" width="300">
     <img src="media/16.png" width="300">
     <img src="media/18.png" width="300">
-    <img src="media/23.png" width="300">
-    <img src="media/24.png" width="300">
 </div>
 
 
