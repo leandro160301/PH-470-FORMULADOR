@@ -47,7 +47,7 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 ### Operacion programa formulador 
 
-En la pantalla principal seleccionamos recetas
+En la pantalla principal seleccionamos una receta
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/1.png" width="600">
