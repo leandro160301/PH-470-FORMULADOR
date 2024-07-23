@@ -103,21 +103,27 @@ Configuracion de etiquetas
 
 ### Pagina WEB
 Control del indicador remoto
+
 <img src="media/19.png"
      >  
 Menu     
+
 <img src="media/20.png"
      > 
-Datos de proceso           
+Datos de proceso        
+
 <img src="media/21.png"
     >  
 Descarga de archivos, recetas, ingredientes, manuales y mas     
+
 <img src="media/22.png"
      >  
 Carga de archivos 
+
 <img src="media/23.png"
     >  
-Actualizaciones de software con archivo .APK     
+Actualizaciones de software con archivo .APK  
+
 <img src="media/24.png"
      >      
 
