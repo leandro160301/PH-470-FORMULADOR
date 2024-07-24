@@ -164,8 +164,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 <hr>
-<body>
-    <!-- Contenido anterior -->
+
 
     <h3 id="contacto">Contacto 📧</h3>
     <p>Puedes contactarme en:</p>
@@ -178,8 +177,6 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
         </a>
     </div>
 
-    <!-- Contenido siguiente -->
-</body>
 
 
 <!-- Iconos -->
