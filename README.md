@@ -89,7 +89,9 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 <hr>
 <h3 id="operacion-programa-formulador">Operación del programa formulador 👷🏽</h3>
-
+<table>
+<tr>
+<td>
 En la pantalla principal seleccionamos una receta
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -119,6 +121,10 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/13.png" width="600">
 </div>
+
+</td>
+</tr>
+</table>
 
 
 
