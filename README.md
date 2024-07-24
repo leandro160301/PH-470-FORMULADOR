@@ -40,7 +40,7 @@ El indicador de peso puede controlar distintos modelos de balanzas, impresoras y
  
 
 <hr>
-<h2 id="seguridad-y-control">Seguridad y control 🔑</h2>
+<h1 id="seguridad-y-control">Seguridad y control 🔑</h1>
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 
 
 <hr>
-<h3 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h3>
+<h1 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h1>
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 
 <hr>
-<h3 id="operacion-programa-formulador">Operación del programa formulador 👷🏽</h3>
+<h1 id="operacion-programa-formulador">Operación del programa formulador 👷🏽</h1>
 <table>
 <tr>
 <td>
@@ -130,7 +130,7 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 
 <hr>
-<h3 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h3>
+<h1 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h1>
 
 <table>
 <tr>
@@ -150,7 +150,7 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 
 <hr>
-<h3 id="pagina-web">Página WEB 🌐</h3>
+<h1 id="pagina-web">Página WEB 🌐</h1>
 
 <table>
 <tr>
@@ -179,7 +179,7 @@ https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
 
 <hr>
-<h3 id="videos-de-operacion-general">Videos de operación general 🎥</h3>
+<h1 id="videos-de-operacion-general">Videos de operación general 🎥</h1>
 
 
 <table>
@@ -217,7 +217,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 <hr>
-<h3 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h3>
+<h1 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h1>
 
 <table>
 <tr>
@@ -233,7 +233,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 <hr>
-<h3 id="contacto">Contacto</h3>
+<h1 id="contacto">Contacto</h1>
 
 <table>
 <tr>
