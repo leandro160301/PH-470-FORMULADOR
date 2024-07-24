@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<div align="center" style="border: 2px solid; padding: 10px; display: inline-block;">
+<div align="center" style="border: 2 solid; padding: 10; display: inline-block;">
   <h1 style="text-decoration: underline;">Controlador de peso PH-470</h1>
 </div>
 <img src="media/8.png">
