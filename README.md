@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<h1 align="center">Controlador de peso PH-470</h1> 
+<h1 align="center"><strong>Controlador de peso PH-470</strong></h1>
 <img src="media/8.png">
 
 El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
