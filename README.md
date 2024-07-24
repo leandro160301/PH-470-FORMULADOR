@@ -178,7 +178,8 @@ Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [
 <!-- Enlaces -->
 [android-studio-url]: https://developer.android.com/studio
 [java-url]: https://www.java.com/
-<hr>
+
+<!--
 - [Conectividad](#conectividad)
 - [Seguridad y control](#seguridad-y-control)
 - [Gestión de ingredientes y recetas](#gestion-de-ingredientes-y-recetas)
@@ -187,3 +188,4 @@ Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [
 - [Videos de operación general](#videos-de-operacion-general)
 - [Desarrollado en Android Studio JAVA](#desarrollado-en-android-studio-java)
 - [Contacto](#contacto)
+-->
