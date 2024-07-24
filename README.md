@@ -3,7 +3,7 @@
 <img src="media/8.png">
 
 El controlador PH-470 es una herramienta diseñada para industrias que requieren altos niveles de control y preparacion de sus productos.
-
+<hr>
 <details>
   <summary>Contenidos</summary>
   <ol>
