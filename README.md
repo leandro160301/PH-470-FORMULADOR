@@ -24,7 +24,7 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
     <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
-
+<hr>
 <h3 id="conectividad">Conectividad 🔗</h3>
 
 Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar información como la carga de recetas, productos, etiquetas, entre otras cosas. Este acceso se realiza a través de una página web embebida de fácil acceso mediante una dirección IP. Desde allí, también podemos controlar o inspeccionar la pantalla en tiempo real, consultar el proceso de producción realizado hasta el momento y descargar informes del mismo. Además, esta página web permite descargar una actualización al indicador mediante un archivo APK.
@@ -32,7 +32,7 @@ Una de las grandes ventajas del PH-470 es su fácil acceso remoto para modificar
 El indicador de peso puede controlar distintos modelos de balanzas, impresoras y escáneres. Para ello, cuenta con puertos RS-232, RS-485 y USB. También posee Bluetooth clásico/LE, WiFi y conexión a red mediante RJ-45.
  
 
-
+<hr>
 <h3 id="seguridad-y-control">Seguridad y control 🔑</h3>
 
 Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un sistema de cuatro niveles de identificación: nivel 4 para programadores (personalización del fabricante), nivel 3 para administradores, nivel 2 para supervisores y nivel 1 para operadores. Esto restringe el acceso a modificaciones indeseadas, asegurando que solo el personal autorizado pueda realizar cambios críticos. Además, al acceder al equipo como operador, podemos realizar la producción sin comprometer los datos guardados en el sistema, quedando registrado todo lo hecho por cada operador correspondiente.
@@ -44,7 +44,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 
 
 
-
+<hr>
 <h3 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h3>
 
 El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
@@ -69,7 +69,7 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 
 
 
-
+<hr>
 <h3 id="operacion-programa-formulador">Operación del programa formulador 👷🏽</h3>
 
 En la pantalla principal seleccionamos una receta
@@ -104,7 +104,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 
 
 
-
+<hr>
 <h3 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -116,7 +116,7 @@ Para controlar los procesos y pasos realizados debemos entrar a la seccion guard
 
 
 
-
+<hr>
 <h3 id="pagina-web">Página WEB 🌐</h3>
 Capturas de la pagina web
 
@@ -135,7 +135,7 @@ https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
 
 
-
+<hr>
 <h3 id="videos-de-operacion-general">Videos de operación general 🎥</h3>
 
 parte 1
@@ -157,13 +157,13 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 
-
+<hr>
 <h3 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h3>
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 
 
-
+<hr>
 <h3 id="contacto">Contacto 📧</h3>
 Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome).
 
