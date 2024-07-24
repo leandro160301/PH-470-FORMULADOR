@@ -133,6 +133,8 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 </table>
 
 
+<p align="right"><a href="#top">Ir al inicio</a></p>
+
 
 <hr>
 <h1 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h1>
@@ -151,6 +153,8 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 </tr>
 </table>
 
+
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 
 
@@ -181,6 +185,9 @@ https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 </td>
 </tr>
 </table>
+
+
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 
 <hr>
@@ -218,7 +225,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 </table>
 
 
-
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 
 <hr>
@@ -235,6 +242,8 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 </td>
 </tr>
 </table>
+
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 
 <hr>
