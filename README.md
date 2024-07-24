@@ -170,7 +170,7 @@ Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [
 
 
 <!-- Iconos -->
-[android-studio-badge]: https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white
+[android-studio-badge]: https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white
 [java-badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
 <!-- Enlaces -->
