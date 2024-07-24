@@ -167,6 +167,19 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 <h3 id="contacto">Contacto 📧</h3>
 Puedes contactarme en mi mail leandro160301@gmail.com o seguirme en [LinkedIn]([https://www.linkedin.com/in/leandro-marcos-bartolome-43b656283/].
 
+
+<h3 id="contacto">Contacto 📧</h3>
+    <p>Puedes contactarme en:</p>
+    <div class="badges">
+        <a href="mailto:leandro160301@gmail.com">
+            <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <a href="https://www.linkedin.com/in/leandro-marcos-bartolome" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+    </div>
+
+
 <!-- Iconos -->
 [android-studio-badge]: https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white
 [java-badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
