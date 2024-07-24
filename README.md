@@ -49,12 +49,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
-
-El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
+  El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
 El PH-470 cuenta con dos opciones para la carga y modificación de datos, tanto de ingredientes como de recetas:
 
 <h4 id="opcion-manual">Opción Manual</h4>
@@ -71,6 +66,11 @@ En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla p
 <h4 id="opcion-remota">Opción Remota</h4>
 
 Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi. De este modo, podrá acceder al controlador a través de una página web embebida, utilizando un celular o una computadora. Desde la página web, podrá cargar o actualizar las recetas e ingredientes que desee, proporcionando una manera conveniente y eficiente de gestionar los datos a distancia.
+
+
+</td>
+</tr>
+</table>
 
 
 
