@@ -158,6 +158,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 <hr>
 <h3 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h3>
+
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 
