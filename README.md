@@ -46,14 +46,20 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 <hr>
 <h3 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h3>
 
-El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
+<table>
+<tr>
+<td>
+  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+</td>
+</tr>
+</table>
 
+El controlador PH-470 está diseñado para la preparación de recetas sin límites de ingredientes. Permite la alta, baja y modificación de ingredientes y recetas, brindándole flexibilidad y control total sobre su proceso de producción.
 El PH-470 cuenta con dos opciones para la carga y modificación de datos, tanto de ingredientes como de recetas:
 
 <h4 id="opcion-manual">Opción Manual</h4>
 
 En esta opción, puede agregar, eliminar y modificar ingredientes y recetas directamente desde la pantalla del dispositivo. Esta opción es ideal para realizar ajustes rápidos y directos en el lugar de trabajo.
-
 En la pantalla recetas seleccionamos la receta a realizar, si queremos realizar alguna modificacion debemos logearnos con nivel supervisor o superior.
 En caso que necesitemos agregar un ingrediente debemos seleccionar en pantalla principal ingredientes 
 
