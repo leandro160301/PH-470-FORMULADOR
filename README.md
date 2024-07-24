@@ -161,7 +161,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
-
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <hr>
 <h3 id="contacto">Contacto</h3>
