@@ -24,7 +24,7 @@ El controlador PH-470 es una herramienta diseñada para industrias que requieren
   </ol>
 </details>
 <hr>
-<h3 id="conectividad">Conectividad 🔗</h3>
+<h1 id="conectividad">Conectividad 🔗</h1>
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ El indicador de peso puede controlar distintos modelos de balanzas, impresoras y
  
 
 <hr>
-<h3 id="seguridad-y-control">Seguridad y control 🔑</h3>
+<h2 id="seguridad-y-control">Seguridad y control 🔑</h2>
 
 <table>
 <tr>
