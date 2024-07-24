@@ -92,36 +92,37 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 <table>
 <tr>
 <td>
+  
 1. En la pantalla principal seleccionamos una receta
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/1.png" width="600">
-</div>
+   <div style="margin-left: 20;">
+       <img src="media/1.png" width="600">
+   </div>
 
-2. Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operacion y presionamos el boton verde de arranque, el indicador mostrara en pantalla que paso debe realizar el operador, en que paso de la receta se encuentra, el rango y nivel de peso como tambien los kilos a cargar.
+2. Una vez seleccionada la receta a realizar volvemos a la pantalla principal de operación y presionamos el botón verde de arranque. El indicador mostrará en pantalla qué paso debe realizar el operador, en qué paso de la receta se encuentra, el rango y nivel de peso, así como los kilos a cargar.
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/7.png" width="300">
-    <img src="media/8.png" width="300">
-    <img src="media/9.png" width="300">
-    <img src="media/11.png" width="300">
-</div> 
+   <div style="margin-left: 20; display: flex; flex-wrap: wrap;">
+       <img src="media/7.png" width="300">
+       <img src="media/8.png" width="300">
+       <img src="media/9.png" width="300">
+       <img src="media/11.png" width="300">
+   </div> 
 
-3. En todo momento el operador puede visualizar el estado actual de la receta     
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/10.png" width="600">
-</div>
+3. En todo momento el operador puede visualizar el estado actual de la receta.
 
-4. Para controlar los procesos y pasos realizados debemos entrar a la seccion guardados, alli podremos ver distintos datos de cada pesada, receta o pedido realizado
+   <div style="margin-left: 20;">
+       <img src="media/10.png" width="600">
+   </div>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/12.png" width="600">
-</div>
+4. Para controlar los procesos y pasos realizados, debemos entrar a la sección guardados. Allí podremos ver distintos datos de cada pesada, receta o pedido realizado.
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="media/13.png" width="600">
-</div>
+   <div style="margin-left: 20;">
+       <img src="media/12.png" width="600">
+   </div>
 
+   <div style="margin-left: 20;">
+       <img src="media/13.png" width="600">
+   </div>
 </td>
 </tr>
 </table>
