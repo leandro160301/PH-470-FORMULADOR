@@ -166,6 +166,7 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 <hr>
 <h3 id="contacto">Contacto</h3>
 
+
 Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome-43b656283/).
 
 
