@@ -181,10 +181,10 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 [java-url]: https://www.java.com/
 
 - [Conectividad](#conectividad)
-- [Seguridad y control](#seguridad)
-- [Gestión de ingredientes y recetas](#gestion)
-- [Operación del programa formulador](#operacion)
+- [Seguridad y control](#seguridad-y-control)
+- [Gestión de ingredientes y recetas](#gestion-de-ingredientes-y-recetas)
+- [Operación del programa formulador](#operacion-programa-formulador)
 - [Página WEB](#pagina-web)
-- [Videos de operación general](#videos-operacion)
-- [Desarrollado en Android Studio JAVA](#desarrollado)
+- [Videos de operación general](#videos-de-operacion-general)
+- [Desarrollado en Android Studio JAVA](#desarrollado-en-android-studio-java)
 - [Contacto](#contacto)
