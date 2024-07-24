@@ -39,7 +39,7 @@ El indicador de peso puede controlar distintos modelos de balanzas, impresoras y
 </table>
 
 
- 
+ <p align="right"><a href="#top">Ir al inicio</a></p>
 
 <hr>
 <h1 id="seguridad-y-control">Seguridad y control 🔑</h1>
@@ -57,6 +57,7 @@ Para garantizar la integridad y seguridad de sus procesos, el PH-470 incluye un 
 </tr>
 </table>
 
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 <hr>
 <h1 id="gestion-de-ingredientes-y-recetas">Gestión de ingredientes y recetas 📖</h1>
@@ -87,6 +88,8 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 </tr>
 </table>
 
+
+<p align="right"><a href="#top">Ir al inicio</a></p>
 
 
 <hr>
