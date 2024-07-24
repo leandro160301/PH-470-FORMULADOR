@@ -164,7 +164,8 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 <hr>
 
-
+<hr>
+<h3 id="contacto">Contacto</h3>
 [![Email](https://img.shields.io/badge/email-email%40example.com-blue)](mailto:leandro160301@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/leandro-marcos-bartolome-43b656283/)
 
