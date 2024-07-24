@@ -132,6 +132,9 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
 <hr>
 <h3 id="otras-pantallas">Otras pantallas de seteos y configuración del equipo 🔧📊🖥️</h3>
 
+<table>
+<tr>
+<td>
 <div style="display: flex; flex-wrap: wrap;">
     <img src="media/14.png" width="300">
     <img src="media/17.png" width="300">
@@ -139,10 +142,20 @@ Para esta opción, debe conectar el indicador a su red mediante Ethernet o WiFi.
     <img src="media/18.png" width="300">
 </div>
 
+</td>
+</tr>
+</table>
+
+
 
 
 <hr>
 <h3 id="pagina-web">Página WEB 🌐</h3>
+
+<table>
+<tr>
+<td>
+  
 Capturas de la pagina web
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -160,9 +173,19 @@ https://github.com/user-attachments/assets/c7b24ff3-5961-4cb8-ae9a-2002c6c93a3a
 
 
 
+</td>
+</tr>
+</table>
+
+
 <hr>
 <h3 id="videos-de-operacion-general">Videos de operación general 🎥</h3>
 
+
+<table>
+<tr>
+<td>
+  
 parte 1
 
 https://github.com/user-attachments/assets/92eab432-b096-4b8a-b118-6c2d964c3837
@@ -185,20 +208,43 @@ https://github.com/user-attachments/assets/cb476b1c-8c12-40c7-aacd-96245233e4d2
 
 
 
+</td>
+</tr>
+</table>
+
+
+
 
 
 <hr>
 <h3 id="desarrollado-en-android-studio-java">Desarrollado en Android Studio JAVA </h3>
 
+<table>
+<tr>
+<td>
+  
 [![Android Studio][android-studio-badge]][android-studio-url]
 [![Java][java-badge]][java-url]
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</td>
+</tr>
+</table>
+
+
 <hr>
 <h3 id="contacto">Contacto</h3>
 
-
+<table>
+<tr>
+<td>
+  
 Puedes contactarme en [mi email](mailto:leandro160301@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/leandro-marcos-bartolome-43b656283/).
+
+</td>
+</tr>
+</table>
+
 
 
 <!-- Iconos -->
